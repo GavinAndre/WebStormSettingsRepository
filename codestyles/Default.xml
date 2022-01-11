@@ -1,0 +1,23 @@
+<code_scheme name="Default" version="173">
+  <VueCodeStyleSettings>
+    <option name="UNIFORM_INDENT" value="false" />
+  </VueCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
