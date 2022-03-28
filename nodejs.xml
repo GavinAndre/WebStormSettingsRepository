@@ -1,0 +1,7 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/n/bin/node" />
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/14.18.1/bin/node" />
+    <local-interpreter path="/Applications/AppCan IDE.app/Contents/Resources/HDK/emulator/mas/node" />
+  </component>
+</application>
